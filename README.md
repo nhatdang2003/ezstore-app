@@ -4,6 +4,7 @@
 - Cài đặt Android Studio để tạo và cấu hình máy ảo Android.
 
 Để hoàn thành project này, hãy thực hiện các bước sau:
+
 **Bước 1: Khởi tạo dự án**
 
 * Tạo một dự án mới bằng cách chạy lệnh `npx create-expo-app`.
