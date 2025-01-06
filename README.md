@@ -1,9 +1,10 @@
-#Cài đặt môi trường
+# Cài đặt môi trường
 Để bắt đầu, hãy thực hiện các bước sau:
 - Cài đặt VSCode để thực hiện code.
-- Cài đặt Android Studio để tạo và cấu hình máy ảo Android.
+- Cài đặt Node.js, JDK 17.
+- Cài đặt Android Studio để tạo và cấu hình máy ảo Android làm môi trường phát triển ứng dụng.
 
-Để hoàn thành project này, hãy thực hiện các bước sau:
+# Để hoàn thành project này, hãy thực hiện các bước sau:
 
 **Bước 1: Khởi tạo dự án**
 
