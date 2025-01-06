@@ -1,10 +1,10 @@
 # Cài đặt môi trường
-Để bắt đầu, hãy thực hiện các bước sau:
+Để chạy tạo môi trường phát triển ứng dụng React Native hãy thực hiện các bước sau:
 - Cài đặt VSCode để thực hiện code.
 - Cài đặt Node.js, JDK 17.
 - Cài đặt Android Studio để tạo và cấu hình máy ảo Android làm môi trường phát triển ứng dụng.
 
-# Để hoàn thành project này, hãy thực hiện các bước sau:
+# Các bước để hoàn thành bài tập:
 
 **Bước 1: Khởi tạo dự án**
 
